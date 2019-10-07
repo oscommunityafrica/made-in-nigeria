@@ -109,6 +109,7 @@
 * [JSMarka](https://github.com/kodejuice/jsmarka) - A JavaScript Code-Performance Benchmarking App. **By [@kodejuice](https://twitter.com/kodejuice)**
 * [Jusibe PHP Library](https://github.com/unicodeveloper/jusibe-php-lib) - A library for [Jusibe SMS Service](https://jusibe.com)  **By [@unicodeveloper](https://twitter.com/unicodeveloper)**
 * [Jusibe JavaScript Library](https://github.com/azemoh/jusibe) - A JavaScript library for [Jusibe SMS Service](https://jusibe.com)  **By [@azemoh](https://twitter.com/josh_azemoh)**
+* [JadeSharedPreference](https://github.com/devmike01/JadeSharedPreference) - A kotlin based Android library for generating SharedPreferences boilerplate codes  **By [@Devmike01](https://twitter.com/iam_devmike01)**
 
 
 ## <a name="K"> </a>K
@@ -181,6 +182,7 @@
 * [Product-Tour](https://github.com/Robophil/Product-Tour) - A responsive tour snippet, with a step-by-step guide(onboarding) **By [@robophil_](https://twitter.com/robophil_)**
 * [PyFCM](https://github.com/olucurious/PyFCM) - Python client for FCM - Firebase Cloud Messaging (Android & iOS) **By [@olucurious](https://twitter.com/olucurious)**
 * [Pymvrd](https://github.com/othreecodes/pymvrd) - Motor Vehicle Registration Information Search Portal Library for python. **By [@othreecodes](https://twitter.com/othreecodes)**
+* [PageStepIndicator](https://github.com/devmike01/PageStepIndicator) - Android Step indicator with titles/labels and tons of customizations. **By [@iam_devmike01](https://twitter.com/iam_devmike01)**
 
 ## <a name="Q"> </a>Q
 
