@@ -115,6 +115,7 @@
 * [Jollof](https://github.com/isocroft/Jollof) - A lightweight PHP framework for developers who love smart work. **By [@isocroft](https://twitter.com/isocroft)**
 * [Jusibe PHP Library](https://github.com/unicodeveloper/jusibe-php-lib) - A library for [Jusibe SMS Service](https://jusibe.com)  **By [@unicodeveloper](https://twitter.com/unicodeveloper)**
 * [Jusibe JavaScript Library](https://github.com/azemoh/jusibe) - A JavaScript library for [Jusibe SMS Service](https://jusibe.com)  **By [@azemoh](https://twitter.com/josh_azemoh)**
+* [JadeSharedPreference](https://github.com/devmike01/JadeSharedPreference) - A kotlin based Android library for generating SharedPreferences boilerplate codes  **By [@Devmike01](https://twitter.com/iam_devmike01)**
 
 
 ## <a name="K"> </a>K
@@ -191,6 +192,7 @@
 * [PyDialogflow Fulfillment](https://github.com/Emmarex/dialogflow-fulfillment-python) - This library makes creating fulfillment for Dialogflow v2 agents easily with Python Backend. ( **By [@_emmarex_](https://twitter.com/_emmarex_)**
 * [PyFCM](https://github.com/olucurious/PyFCM) - Python client for FCM - Firebase Cloud Messaging (Android & iOS) **By [@olucurious](https://twitter.com/olucurious)**
 * [Pymvrd](https://github.com/othreecodes/pymvrd) - Motor Vehicle Registration Information Search Portal Library for python. **By [@othreecodes](https://twitter.com/othreecodes)**
+* [PageStepIndicator](https://github.com/devmike01/PageStepIndicator) - Android Step indicator with titles/labels and tons of customizations. **By [@iam_devmike01](https://twitter.com/iam_devmike01)**
 
 ## <a name="Q"> </a>Q
 * [Quicksi CLI](https://github.com/AnayoOleru/quicksi) - A command-line bot tool that contains reuseable templates in different languages, frameworks and libraries designed to make it easy for developers to start projects without having to worry about the setup.
